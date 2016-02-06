@@ -1,2 +1,4 @@
 # Server
 exclude:          [.gitignore,README.md]
+
+url: http://greenled.github.io/jekyll-twitter
